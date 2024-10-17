@@ -22,8 +22,7 @@ Current Study: Bachelors of Computer Science in Monash University Malaysia
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaiz404&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiz404&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Kaiz404\&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Kaiz404&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
