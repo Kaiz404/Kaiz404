@@ -1,8 +1,19 @@
-# 💫About Me :
-Hi! I am an aspiring Developer hoping to create projects I am proud of.
-Areas of Interest: IoT, Applications of LLM models, Mobile App and Web Development.
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/9f/eb/6a/9feb6ae6ea5ee06371553d6398f1419b.gif"  />
+</div>
 
-Current Study: Bachelors of Computer Science in Monash University Malaysia
+###
+
+<h1 data-importer="text" align="center">Welcome to My Profile ✌️</h1>
+
+###
+
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">I'm a final year CS student from Monash University<br><br>- 🔭 I’m working as a freelanced Mobile and FullStack Developer<br>- 📚 I'm currently trying to learn more about DevOps pipelines and Deep Learning!<br>- ⚡ In my free time I enjoy climbing plastic rocks</p>
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kai-zhe-chang-8a33a1276]) 
@@ -23,6 +34,3 @@ Current Study: Bachelors of Computer Science in Monash University Malaysia
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiz404&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Kaiz404\&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Kaiz404&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
