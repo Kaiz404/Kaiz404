@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a final year CS student from Monash University<br><br>- 🔭 I’m working as a freelanced Mobile and FullStack Developer<br>- 📚 I'm currently trying to learn more about DevOps pipelines and Deep Learning!<br>- ⚡ In my free time I enjoy climbing plastic rocks</p>
+<p data-importer="text" align="left">I'm a final year CS student from Monash University<br><br>- 🔭 I’m working as a freelanced Mobile and FullStack Developer<br>- 📚 I'm currently trying to learn more about DevOps pipelines and Deep Learning!<br>- ⚡ In my free time I enjoy going to the cinemas and climbing plastic rocks!</p>
 
 
 ## 🌐Socials
